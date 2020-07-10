@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1523870214 source:c:\users\jabed\desktop\watemalon\deconstructor\main.cpp
+	<iostream>
+	"Bailly.h"
+
+1523870426 c:\users\jabed\desktop\watemalon\deconstructor\bailly.h
+
+1523870365 source:c:\users\jabed\desktop\watemalon\deconstructor\bailly.cpp
+	"Bailly.h"
+	<iostream>
+

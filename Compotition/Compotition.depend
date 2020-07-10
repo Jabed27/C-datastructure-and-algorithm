@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523942400 source:c:\users\jabed\desktop\watemalon\compotition\main.cpp
+	<iostream>
+	"Birthday.h"
+	"People.h"
+
+1523905334 c:\users\jabed\desktop\watemalon\compotition\birthday.h
+
+1523949252 c:\users\jabed\desktop\watemalon\compotition\people.h
+	<string>
+	"Birthday.h"
+
